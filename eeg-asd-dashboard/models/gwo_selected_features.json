@@ -1,0 +1,15 @@
+[
+  "rel_theta_frontal",
+  "rel_delta_parietal",
+  "rel_theta_parietal",
+  "abs_theta_occipital",
+  "abs_alpha_occipital",
+  "theta_alpha_F",
+  "coh_delta_C3_C4",
+  "coh_alpha_C3_C4",
+  "coh_theta_P5_P6",
+  "coh_delta_Fz_Pz",
+  "coh_beta_F4_P4",
+  "sampen_central",
+  "sampen_global"
+]
